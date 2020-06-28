@@ -6,3 +6,4 @@ google_analytics: UA-104417673-1
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+site_url: https://stdavis.github.io/themilewidelife.com/
