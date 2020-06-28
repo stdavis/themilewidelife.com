@@ -3,7 +3,7 @@ layout: post
 title: "It's Time to Forget"
 category: home-school
 ---
-![random act poster](assets/images/Random-act-poster.jpg)
+![random act poster](/assets/images/Random-act-poster.jpg)
 
 I read to my children every day when we start school. This is the one thing we implemented in the very beginning and never changed. Reading together has allowed me to show my children some of the stories that I loved growing up, and to discover new stories together. When we read together it allows us to ask questions and have discussions that wouldn’t happen in any other setting. Together we have discovered distant and even imaginary lands, we have time-traveled to witness amazing historical events, and we have met larger than life individuals from history; all from the comfort of our living room.
 
