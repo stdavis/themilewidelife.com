@@ -1,0 +1,20 @@
+---
+layout: post
+title: "The Other Side of the Waterfall"
+category: my-peace
+---
+![waterfall](/assets/images/waterfall.jpg)
+
+I recently came upon a short story I wrote in elementary school called The Other Side of the Waterfall. The story wasn’t that great, I wrote it in fifth grade, but it got me thinking a little about waterfalls. Did you know that almost 835,000 gallons of water flow over Niagara Falls every second? In contrast, a range, depending on the season, of 5,000 to 60,000 gallons flows over the upper falls in Yellowstone every second. No matter which number you look at that’s a lot of water. If you were to stand directly under either of the falls the force would wipe you out.
+
+Another thought I had is that of the beauty of waterfalls. They are awesome and inspiring! On a recent trip with my family, we stood in front of a waterfall and enjoyed the beauty of a rainbow as the sun’s rays were scattered in the mist of water surrounding the fall. The colors were vivid, beautiful, and constant.
+
+Finally, waterfalls are predictable. Yes, the amount of water may vary from one season to the next, and if the fall is small enough it may dry up altogether during a dry spell. But it’s a safe bet that if there are a water source and a change in elevation gravity is going to take over and create a waterfall.
+
+In my story, I wrote about a magical world full of wonder that existed as one passed through the fall. The magic created a place of beauty with lush, green forests, beautiful ponds, and mythical creatures. It was a welcoming place that filled its inhabitants with peace and joy. A place where anyone would want to not only visit, but stay for the long haul.
+
+The past year and a half I have found myself in the middle of the waterfall. In January of 2018, Scott had the first of two surgeries on his foot. It was a pretty minor surgery and maybe added a few gallons to the small waterfall of everyday life. In April the water started to run faster and stronger when Scott was called to be the bishop of our ward. The waterfall again increased in strength when Scott had his second foot surgery in June and spent the next six weeks in a cast. After that, we thought the fall had finally leveled off until my back went out and I spent a month down before finally having spinal decompression surgery in November. Again, life calmed down a little but then three weeks ago I had another surgery to fix a tear in my hip joint. I am now working my way off crutches and starting to feel a little more normal again.
+
+Needless to say, I feel like I’ve been struggling my way through a massive waterfall trying to get to the other side. At times the force of the water has swept me off my feet and I’ve required extra support from all of my earthly angels. Other times, I’ve done a better job standing on my own two feet. I’ve even had a few moments where I’ve been able to support others as they cross through their own falls. But always, the water has come.
+
+As I’ve pondered the waterfall I’m currently in I’ve thought about the beauty I’ve seen along the way. Scott and I have both felt the Lord guide us through important decisions. We’ve both felt the strength of others who have sustained us when the water was most powerful. So many prayers have been, not only answered, but recognized. I’ve learned that I’m stronger than I may have thought and that I am capable of doing hard things. Most of all, I have felt the Spirit reminding me that I am not alone or forgotten. In the spirit of being real, let me assure you that I have had some very down moments. I’m not always great at seeing the sunshine and rainbows and my Heavenly Father has been the recipient of many tear-filled prayers. However, when those prayers are concluded and my tears dry up I am gently and lovingly reminded that I chose to come to earth and struggle and when my journey is complete, if I have done my best, I will find a mansion prepared for me on the other side of my waterfall.

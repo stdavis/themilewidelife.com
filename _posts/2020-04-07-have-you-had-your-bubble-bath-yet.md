@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Have You Had Your Bubble Bath Yet"
-category: home-school
+category: homeschool
 ---
 ![fingers under door](/assets/images/fingers-under-door.jpg)
 
