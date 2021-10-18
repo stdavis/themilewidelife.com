@@ -3,7 +3,7 @@ layout: post
 title: "What Can the Scriptures Do for You?"
 category: my-peace
 ---
-![scriptures](/assets/images/scriptures.jpg)
+![scriptures](/themilewidelife.com/assets/images/scriptures.jpg)
 
 Do you ever wonder if your family is on the right track or if you are failing as a parent? I’ve asked myself those same questions a lot lately. On more than one occasion, my husband and I have asked each other if all large families argue and fight like ours. I’m sure it’s not uncommon when five very strong, and still immature, personalities live under the same roof and are together all day long, for tensions to rise and tempers to flare. Add to that, two very busy parents who, at times, lose their patience and it can make for sometimes volatile situations. The question, then, is even if it’s not uncommon should we settle? Should we accept our lot in life and give up on something better?
 
@@ -19,7 +19,7 @@ We were driving home from a family party after a long day and all five kids were
 In an effort to get kids to bed as quickly as possible, I seized the moment of quiet, pulled out my phone, and starting reading from the book of Alma. We’re in the middle of the war chapters, which I thought was very appropriate for the moment, and I figured we would read a few verses on the drive and then get everyone in bed.  
 To my surprise, our reading came to a halt two verses in.
 
-![close up image of scriptures](/assets/images/scriptures-close-up.jpg)
+![close up image of scriptures](/themilewidelife.com/assets/images/scriptures-close-up.jpg)
 
 _And now it came to pass that the armies of the Lamanites, on the west sea, south, while in the absence of Moroni on account of some intrigue amongst the Nephites, which caused dissensions amongst them, had gained some ground over the Nephites, yea, insomuch that they had obtained possession of a number of their cities in that part of the land. And thus because of iniquity amongst themselves, yea, because of dissensions and intrigue among themselves they were placed in the most dangerous circumstances._ ([Alma 53:8-9](https://www.lds.org/scriptures/bofm/alma/53?lang=eng))
 

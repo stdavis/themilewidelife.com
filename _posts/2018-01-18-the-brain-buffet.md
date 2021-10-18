@@ -3,7 +3,7 @@ layout: post
 title: "The Brain Buffet"
 category: homeschool
 ---
-![books and games](/assets/images/books-and-games.jpg)
+![books and games](/themilewidelife.com/assets/images/books-and-games.jpg)
 
 After our first year of homeschooling, I had a lot of questions. I was still convinced that homeschooling was the right course for our family, but we had problems and I needed answers. One of the challenges I faced was reading to my children. We would get up and get ready for the day and then jump into our lessons. I would work with my kids individually, but I never read to all of my children consistently the whole year. Sadly, my then five-year-old, who was just learning to read, spent most of the year reading phonics books and looking at pictures in books she couldn’t read.
 

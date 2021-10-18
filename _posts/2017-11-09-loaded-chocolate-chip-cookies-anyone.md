@@ -3,7 +3,7 @@ layout: post
 title: "Loaded Chocolate Chip Cookies Anyone?"
 category: cooking
 ---
-![cookies](/assets/images/cookies.jpg)
+![cookies](/themilewidelife.com/assets/images/cookies.jpg)
 
 My grandmothers were as polar opposite as is humanly possible when it came to cooking. While one was opening cans with a hammer and dull knife, the other had a very nicely stocked kitchen. One set of recipes was very precise and perfectly organized, while the other set of recipes was stored in Grandma’s brain. What’s the point in having precise measurements if your measuring cups consist of old Kraft spreadable cheese jars?
 
@@ -11,7 +11,7 @@ My paternal grandmother was what I affectionately refer to as a knife scraper. Y
 
 Such is the case with Grandma’s chocolate chip cookies. She found her recipe over sixty years ago in a local newspaper article and it has been our go-to ever since. That being said, I have a hard time leaving things alone when I’m in the kitchen so I have added to and modified her recipe. Are you ready for Loaded Chocolate Chip Cookies?
 
-![broken cookie](/assets/images/broken-cookie.jpg)
+![broken cookie](/themilewidelife.com/assets/images/broken-cookie.jpg)
 
 Loaded Chocolate Chip Cookies
 

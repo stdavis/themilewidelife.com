@@ -3,7 +3,7 @@ layout: post
 title: "Whole Wheat Bread that Even an Idiot Can Make"
 category: cooking
 ---
-![bread](/assets/images/bread.jpg)
+![bread](/themilewidelife.com/assets/images/bread.jpg)
 
 There is nothing better than the yeasty smell of freshly baked bread except for biting into a slice of said bread still warm enough to melt the butter. I grew up making french bread that I learned to make as a teenager, but whole wheat bread was a challenge that took me a long time to conquer. Try as I might, every recipe fell a little short. It was either too dry, too tough, too flat, or too tasteless. However, I’d had many slices of marvelous whole wheat bread so I knew it was possible. I just couldn’t figure out why mine missed the mark when I used the same recipes as some great bread makers. So, I determined I must be an idiot and it was up to me to create a foolproof recipe. I came up with two: whole wheat potato bread and honey whole wheat bread.
 
@@ -35,7 +35,7 @@ Place the dough in an oiled bowl, turning once to coat both sides. Cover the bow
 Once it has doubled, take out a little aggression by punching the dough down and form it into three loaves. Place the loaves in loaf pans coated with non-stick spray and then cover and let them rise again.  
 Bake at 350o for 25 to 30 minutes until brown. The bread should sound hollow when you tap on it or so I’ve been told. I’m no good at determining the doneness of bread. I’ve eaten many undercooked loaves in my life. Instead, I figure out how long it needs in my oven, 26 minutes to be exact, and I stick to it.
 
-![bread with heal cut off](/assets/images/bread-with-heal.jpg)
+![bread with heal cut off](/themilewidelife.com/assets/images/bread-with-heal.jpg)
 
 ##### Whole Wheat Potato Bread
 
@@ -56,7 +56,7 @@ Place dough into an oiled bowl, turn it over to coat both sides, and cover the b
 Punch the dough down and form into three loaves. Place loaves into oiled loaf pans, cover, and let rise again until double in size.  
 Bake at 350o for 25 to 30 minutes.
 
-![sliced bread](/assets/images/sliced-bread.jpg)
+![sliced bread](/themilewidelife.com/assets/images/sliced-bread.jpg)
 
 ##### Honey Whole Wheat Bread
 

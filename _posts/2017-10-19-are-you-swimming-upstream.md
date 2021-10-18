@@ -3,7 +3,7 @@ layout: post
 title: "Are You Swimming Upstream?"
 category: my-peace
 ---
-![stream](/assets/images/stream.jpg)
+![stream](/themilewidelife.com/assets/images/stream.jpg)
 
 As I got ready for my day this morning I was listening to the Saturday morning session of this past [General Conference](https://www.lds.org/general-conference?cid=HP14GC2&lang=eng). In it, [President Uchtdorf](https://www.lds.org/general-conference/2017/10/a-yearning-for-home?lang=eng) said something that has had me pondering all day. He said, “You cannot just float in the waters of life and trust that the current will take you wherever you hope to be one day. Discipleship requires our willingness to swim upstream when needed.”
 

@@ -3,7 +3,7 @@ layout: post
 title: "Why Do You Homeschool"
 category: homeschool
 ---
-![boy on laptop](/assets/images/boy-on-laptop.jpg)
+![boy on laptop](/themilewidelife.com/assets/images/boy-on-laptop.jpg)
 
 Why do you homeschool? If you’ve homeschooled for a day you’ve most likely been asked this question. I’ve heard so many different answers:  
 I want to tailor my children’s education to them.  

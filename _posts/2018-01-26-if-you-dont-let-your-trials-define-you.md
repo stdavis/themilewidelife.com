@@ -3,7 +3,7 @@ layout: post
 title: "If You Don’t Let Your Trials Define You, Maybe You Should"
 category: my-peace
 ---
-![boats in ocean](/assets/images/jaradite-boats.jpg)
+![boats in ocean](/themilewidelife.com/assets/images/jaradite-boats.jpg)
 
 ##### Artwork by Amy T. Pugsley
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Other Side of the Waterfall"
 category: my-peace
 ---
-![waterfall](/assets/images/waterfall.jpg)
+![waterfall](/themilewidelife.com/assets/images/waterfall.jpg)
 
 I recently came upon a short story I wrote in elementary school called The Other Side of the Waterfall. The story wasn’t that great, I wrote it in fifth grade, but it got me thinking a little about waterfalls. Did you know that almost 835,000 gallons of water flow over Niagara Falls every second? In contrast, a range, depending on the season, of 5,000 to 60,000 gallons flows over the upper falls in Yellowstone every second. No matter which number you look at that’s a lot of water. If you were to stand directly under either of the falls the force would wipe you out.
 

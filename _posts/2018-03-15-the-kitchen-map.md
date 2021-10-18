@@ -3,7 +3,7 @@ layout: post
 title: "The Kitchen Map"
 category: homeschool
 ---
-![wall map](/assets/images/wall-map.jpg)
+![wall map](/themilewidelife.com/assets/images/wall-map.jpg)
 
 I love the moments in our family when I see my children totally engaged in learning. The other day I walked into the kitchen to find my son beating his head against the wall saying, “Where the heck is Singapore!” This was not a typical scene in our home and I couldn’t help but laugh. He looked at me with a face that said, “Ha, ha now help me” to which I responded, “Look by Vietnam.” Within seconds he said, “Oh, there it is” and he continued with his assignment and I went back to what I was doing.
 

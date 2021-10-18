@@ -3,7 +3,7 @@ layout: post
 title: "Have You Had Your Bubble Bath Yet"
 category: homeschool
 ---
-![fingers under door](/assets/images/fingers-under-door.jpg)
+![fingers under door](/themilewidelife.com/assets/images/fingers-under-door.jpg)
 
 I was once asked if stay at home moms relax in bubble baths and read all day. Now, I may be going out on a limb here, but my guess is that this is not the reality of most mothers; it’s certainly not mine. I’ve never in my life worked as hard as I do now caring for five children, keeping some sort of order in my home, feeding my family, serving in my church and community, and facilitating my children’s education. If I didn’t intentionally make time for myself, it would never happen.
 

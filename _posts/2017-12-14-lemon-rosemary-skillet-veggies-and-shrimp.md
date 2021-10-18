@@ -3,12 +3,12 @@ layout: post
 title: "Lemon Rosemary Skillet Veggies and Shrimp"
 category: cooking
 ---
-![veggies and shrimp](/assets/images/veggies-and-shrimp.jpg)
+![veggies and shrimp](/themilewidelife.com/assets/images/veggies-and-shrimp.jpg)
 
 A few years ago I discovered the beauty of sea salt. I started out buying sea salt from the grocery store, but the selection was very limited and I knew there had to be a better supplier out there. My search turned to Amazon and Google and I discovered a company called [San Francisco Salt Company](https://www.sfsalt.com/home). Oh my goodness! They have an amazing variety of salt at a wonderful price and great customer service to complete the experience. I have chosen to promote their salt because I use and love it.
 
 It is with this in mind that I bring you Skillet Veggies and Shrimp featuring [SF Salt Co. Lemon Rosemary Sea Salt](https://www.sfsalt.com/lemon-rosemary-sea-salt1). This is a dish that I first made for my hubby for a stay home anniversary dinner a couple of years ago and it has become a favorite of ours. Not only is it super easy, but it looks beautiful, tastes amazing, and it’s full of nutritious veggies. The best part, however, is that my kids enjoy it. So, get a loaf of good crusty bread, pull out your favorite oil and vinegar, slice up some high-quality artisan cheese, and enjoy a flavorful, fancy, and facile meal. (Yep, I had to look up that last adjective. We’re learning about alliteration in our house so I better walk the talk.)  
-![salt](/assets/images/salt.jpg)
+![salt](/themilewidelife.com/assets/images/salt.jpg)
 
 **Skillet Veggies and Shrimp**
 
@@ -48,10 +48,10 @@ At this point, I’m sure you’ve noticed bits of shrimp and veggies have cooke
 
 Once the veggies are tender, turn the heat off, taste for seasoning, toss in the tomatoes, and put the lid back on while you slice your avocado. This shouldn’t take more than a minute or so. If you’re going to be plating it for a nice picture, place the asparagus on the bottom of the plate, top it will a few large scoops of the other veggies, and then make it look nice with the shrimp and avocado. Finally, add a small sprinkle of salt to finish off the presentation.
 
-![plated veggies and shrimp](/assets/images/plated-veggies-and-shrimp.jpg)
+![plated veggies and shrimp](/themilewidelife.com/assets/images/plated-veggies-and-shrimp.jpg)
 
 If, on the other hand, you’re feeding a family of seven who haven’t eaten in about three hours, but act as if it’s been days, throw the asparagus and shrimp back into the pan and call the kids up for dinner. You will probably already have the avocado sliced on a plate and sitting on the table. Just don’t take your eyes off your two-year-old for two seconds or you will be slicing another avocado.
 
-![skillet with veggies and shrimp](/assets/images/skillet-with-veggies-and-shrimp.jpg)
+![skillet with veggies and shrimp](/themilewidelife.com/assets/images/skillet-with-veggies-and-shrimp.jpg)
 
 Now, go get your veggies on, try out this amazing salt, and then leave me a comment and let me know what you think.

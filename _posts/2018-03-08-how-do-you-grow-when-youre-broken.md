@@ -3,7 +3,7 @@ layout: post
 title: "How Do You Grow When You’re Broken"
 category: homeschool
 ---
-![bonsai tree](/assets/images/bonsai-tree.jpg)
+![bonsai tree](/themilewidelife.com/assets/images/bonsai-tree.jpg)
 
 Do you ever feel broken? In this overwhelming world in which we live it’s easy to feel lost, afraid, alone, and very vulnerable. We are mortal beings trying to traverse the path back to our Heavenly Father through a veil of forgetfulness and the challenges of being imperfect souls. At times we feel lost because of poor choices and at times our faith is tested to help make us stronger. The world can be a scary place and our bodies often fail us. How can we possibly get through all the challenges we face and return to the arms of a loving Father in Heaven?
 

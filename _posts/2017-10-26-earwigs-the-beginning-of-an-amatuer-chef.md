@@ -3,7 +3,7 @@ layout: post
 title: "Earwigs…the Beginning of an Amateur Chef"
 category: cooking
 ---
-![grapes](/assets/images/grapes.jpg)
+![grapes](/themilewidelife.com/assets/images/grapes.jpg)
 
 Earwigs! Admittedly, not the most appetizing way to start a cooking blog but humor me. Just picture them in your mind; slimy looking brown bodies, long antennae, two nightmarish pincers protruding from their backside. They have to be one of the ugliest, grossest, most disgusting bugs ever and they will forever hold a place on my long list of cooking memories.
 

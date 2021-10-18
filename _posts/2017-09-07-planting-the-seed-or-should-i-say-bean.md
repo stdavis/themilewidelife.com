@@ -3,7 +3,7 @@ layout: post
 title: "Planting the Seed...or Should I Say Bean"
 category: chocolate
 ---
-![cocoa beans](/assets/images/cocoa-beans.jpg)
+![cocoa beans](/themilewidelife.com/assets/images/cocoa-beans.jpg)
 
 Chocolate is a food that, until a year ago, had always eluded me in my kitchen escapades. My aunt was a candy maker so I grew up learning that it was important to use high-quality chocolate and that if it wasn’t melted correctly it wouldn’t temper. I knew that chocolate and water really don’t mix and that cheap chocolate had fillers like wax. But, the art of making chocolate was absent from my knowledge base.
 
@@ -11,7 +11,7 @@ Several years ago I was making chocolate frosting for a cake and my boys had a f
 
 That day came almost two years ago. I found a local class that taught about the history of chocolate and benefits of eating real chocolate and gave it to Scott for Christmas. It took us almost six months to redeem his present but we got to the class to find that we were two of only four people. For the next two hours, we sampled chocolates from some world class chocolate makers and discussed the history of chocolate and beans and the basic method of refining them. We were fascinated and the seed that was planted years earlier started to grow.
 
-![grinding cocoa](/assets/images/grinding-cocoa.jpg)
+![grinding cocoa](/themilewidelife.com/assets/images/grinding-cocoa.jpg)
 
 Over the next few months, Scott would watch every youtube video and read every blog post he could find on chocolate making. He gleaned a lot of information in the hours he spent researching and we bought our first sampler pack of beans to start experimenting.
 

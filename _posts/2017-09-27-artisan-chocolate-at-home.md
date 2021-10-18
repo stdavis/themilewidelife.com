@@ -3,7 +3,7 @@ layout: post
 title: "Artisan Chocolate at Home"
 category: chocolate
 ---
-![hand holding cocoa beans](/assets/images/hand-with-beans.jpg)
+![hand holding cocoa beans](/themilewidelife.com/assets/images/hand-with-beans.jpg)
 
 When Scott and I first discovered the difference between real chocolate and candy chocolate we were hooked. There was no going back. We started purchasing chocolate one bar at a time ([we have a great selection here in Utah](https://www.deseretnews.com/article/865680202/Utah-artisan-chocolate-scene-rich-rapidly-growing.html)) and then allotted ourselves one square a day since a single bar can range from around $8 to $20! We had to do something or we would go broke on chocolate. Thus was born for us the art of bean to bar chocolate at home.
 
@@ -15,11 +15,11 @@ Once you have the raw beans it’s time to roast them. [Roasting is an art form 
 
 So when are they done? This is a simple question that is not so simple to answer. It depends on whether you like a darker or lighter roast and it depends on the type of bean you are using. This is largely a matter of trial and error. My recommendation is to start out roasting your beans to between 290 and 310 degrees. They will make your entire house smell like fresh-baked brownies and the shells may start to crack.
 
-![four beans in a hand](/assets/images/four-beans-in-hand.jpg)
+![four beans in a hand](/themilewidelife.com/assets/images/four-beans-in-hand.jpg)
 
 Once your beans are roasted the next step is to remove the shell (referred to as cracking and winnowing). We prefer to crack and peel each bean by hand. It takes a long time but it’s a very relaxing process (we may need to get out more) and it results in almost no loss of beans.
 
-![winnowing](/assets/images/winnowing.jpg)
+![winnowing](/themilewidelife.com/assets/images/winnowing.jpg)
 
 The other option is to use a rolling pin and hair drier. Start by breaking up the shelled beans in a freezer bag with the rolling pin. Once the beans are broken into small pieces dump them into a large bowl and toss them while blowing them with a hair dryer until the shells, which are lighter, blow away and you are left with just the inside of the bean. This process takes much less time, but you will want to do it outside because it creates a large mess and it results in some loss.
 
@@ -29,11 +29,11 @@ Whichever method you choose, you will now have a bowl of nibs or cocoa bean piec
 
 It’s now time to warm the melanger and then dig deep into the portion of your brain that is storing your memories of junior high math. To warm up the melanger simply turn your oven on as low as it will go and let the bowl and stones sit in the oven while you get everything else together. Next, weigh your beans (in grams) and add your desired amount of butter. We usually calculate the butter between 5% and 7% of the total weight of the nibs. Add the weight of the nibs and butter and use this number to determine how much sugar to add to the mix. Use the following equation:
 
-![s = \frac{100 - p}{p} \times c](/assets/images/cocoa-equation.png)
+![s = \frac{100 - p}{p} \times c](/themilewidelife.com/assets/images/cocoa-equation.png)
 
-![s](/assets/images/s.png) = sugar (grams)  
-![p](/assets/images/p.png) = desired percentage of cocoa  
-![c](/assets/images/c.png) = cocoa (including butter) (grams)
+![s](/themilewidelife.com/assets/images/s.png) = sugar (grams)  
+![p](/themilewidelife.com/assets/images/p.png) = desired percentage of cocoa  
+![c](/themilewidelife.com/assets/images/c.png) = cocoa (including butter) (grams)
 
 ## Cocoa Percentage Calculator
 
@@ -70,17 +70,17 @@ Amount of sugar to add
 
 Once you have the correct amounts of nibs, sugar, and cocoa butter you can start adding them to the melanger. Do this slowly! If the nibs are added to the melanger too quickly they can jam the wheels and bind the melanger. I don’t know that there is any magic to the order in which the ingredients are added but we usually add the butter first (melted in the microwave), then nibs, and then sugar.
 
-![nibs going into melanger](/assets/images/nibs-going-into-melanger.jpg)
+![nibs going into melanger](/themilewidelife.com/assets/images/nibs-going-into-melanger.jpg)
 
 ##### Adding nibs to the melanger
 
 And now we come to the waiting game. Initially, the melanger will break the nibs down and refine them into a smooth liquor but the harsh flavors will take longer to be refined through a process called [conching](https://en.wikipedia.org/wiki/Conche). This just takes time. We have allowed our chocolate to run in the melanger for anywhere from 18 to 36 hours.
 
-![nibs in melanger](/assets/images/nibs-in-melanger.jpg)
+![nibs in melanger](/themilewidelife.com/assets/images/nibs-in-melanger.jpg)
 
 ##### Shortly after adding the nibs
 
-![chocolate in melanger](/assets/images/chocolate-melanger.jpg)
+![chocolate in melanger](/themilewidelife.com/assets/images/chocolate-melanger.jpg)
 
 ##### ~1 hour after adding the nibs
 
@@ -88,11 +88,11 @@ Tempering is the next step in the process and also the most difficult. It is thr
 
 Cocoa butter silk is cocoa butter that has been held at a consistent temperature for an extended period of time. This allows the correct crystal structure to form and when it’s added to the chocolate it acts as a seed for the chocolate to form the correct crystalline structure. Silk [can be made at home](http://chocolatealchemy.com/cocoa-butter-silk/) with a [sous vide](https://www.amazon.com/gp/product/B01LXC2FLO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXC2FLO&linkCode=as2&tag=themilewideli-20&linkId=bd1ccaa20dd42662edb1eed2b92ef859), but when we first started using it we purchased it from [chocolatealchemy.com](https://shop.chocolatealchemy.com/collections/raw-ingredients/products/cocoa-butter-silk). To use silk bring your melted chocolate to a temperature of 95 degrees and grate about an ounce of silk into the chocolate. Stir it in and let it sit for a few minutes to melt and then it’s then ready to pour.
 
-![pouring chocolate](/assets/images/pouring-chocolate.jpg)
+![pouring chocolate](/themilewidelife.com/assets/images/pouring-chocolate.jpg)
 
 If you don’t have molds, your chocolate can be poured onto wax paper to cool. However, molds are not very expensive and can be easily found on Amazon or, locally, at craft and candy supply stores. Once you pour the chocolate into the molds tap them to spread the chocolate out and work any air bubbles to the surface. Try not to scrape the surface of the chocolate as this can disrupt the crystal structure and cause marbling on the surface of the chocolate. FInally, allow the chocolate to cool at room temperature and then enjoy!
 
-![chocolate on a pan](/assets/images/chocolate-on-pan.jpg)
+![chocolate on a pan](/themilewidelife.com/assets/images/chocolate-on-pan.jpg)
 
 ##### Our very first batch of chocolate!
 
@@ -108,4 +108,4 @@ Just to recap:
 8.  Pour
 9.  Enjoy!!
 
-![single bar on beans](/assets/images/single-bar-on-beans.jpg)
+![single bar on beans](/themilewidelife.com/assets/images/single-bar-on-beans.jpg)

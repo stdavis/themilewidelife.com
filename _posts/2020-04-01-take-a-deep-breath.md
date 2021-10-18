@@ -3,7 +3,7 @@ layout: post
 title: "Take a Deep Breath"
 category: homeschool
 ---
-![toddler playing](/assets/images/toddler-playing.jpg)
+![toddler playing](/themilewidelife.com/assets/images/toddler-playing.jpg)
 
 On March 12th the world was turned upside down. In a matter of one day, we all went from a life that we knew and that we had, more or less figured out, to something that looked vaguely familiar yet totally new and overwhelming. As school districts shut down mothers all over found themselves in the thick of homeschooling without any preparation or concern for what was going on in their personal life. Five days later many of us started our day with the earth literally shaking beneath our feet. New fears emerged and anxieties were heightened to the extreme. 
 

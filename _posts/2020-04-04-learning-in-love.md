@@ -3,7 +3,7 @@ layout: post
 title: "Learning in Love"
 category: homeschool
 ---
-![scott with kids](/assets/images/scott-with-kids.jpg)
+![scott with kids](/themilewidelife.com/assets/images/scott-with-kids.jpg)
 
 I once heard a story of a mother who was in an argument with her young son. As the argument progressed and tensions rose, the mother started to yell. After a moment she noticed that her son had his eyes closed and he was no longer responding to her. She quickly realized that she needed to calm down and put herself in timeout. When things calmed down she asked her son why he quit listening and responding. His response was profound and has stuck with me for many years. He said, “When you yell at me I just close my eyes and tell myself over and over that it will soon end.” 
 

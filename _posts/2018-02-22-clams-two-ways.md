@@ -3,7 +3,7 @@ layout: post
 title: "Clams Two Ways"
 category: cooking
 ---
-![clams and salt](/assets/images/clams-and-salt.jpg)
+![clams and salt](/themilewidelife.com/assets/images/clams-and-salt.jpg)
 
 I was cooking dinner the other day when my son came in the kitchen and noticed four open cans of clams. He begged to have just one and pretty soon all of my kids were snitching clams when I wasn’t looking. Needless to say, clams are a big hit in our family. Sadly, we don’t have easy access to fresh seafood here in Utah so I keep canned clams in my pantry.
 
@@ -20,7 +20,7 @@ Keep in mind that all of the amounts are approximate. I cook to taste and rarely
 
 Cook stirring frequently in a heavy saucepan, I use my [enameled cast iron dutch oven](http://amzn.to/2FFo9d7), over medium heat until the onions soften and turn translucent.
 
-![](/assets/images/onions-and-carrots.jpg)
+![](/themilewidelife.com/assets/images/onions-and-carrots.jpg)
 
 Add:  
 2 cloves garlic creamed or finely diced  
@@ -38,7 +38,7 @@ Stir and simmer over medium-low for about 20-30 minutes, or longer, to allow fla
 
 After simmering the sauce add the clams and continue cooking for about five minutes longer to heat the clams through. Taste for seasoning and adjust as needed. Serve over hot pasta and top with freshly grated parmesan or asiago cheese.
 
-![spaghetti and carrots](/assets/images/spaghetti-and-carrots.jpg)
+![spaghetti and carrots](/themilewidelife.com/assets/images/spaghetti-and-carrots.jpg)
 
 **Clam Chowder**
 
@@ -71,6 +71,6 @@ Juice from 4 6.5 oz cans of clams
 
 Continue whisking over medium heat until soup comes to a boil. Add clams and baked veggies and then remove from heat. Taste for seasoning and add freshly ground pepper and hot sauce to taste. Serve with a good crusty bread.
 
-![bowl of soup](/assets/images/soup.jpg)
+![bowl of soup](/themilewidelife.com/assets/images/soup.jpg)
 
 I always have evaporated milk in my pantry and like the richness it adds to the milk, but feel free to use just milk, half and half, cream or any combination of the above. As my sweet aunt always used to say, “It’s your stomach.” Now, enjoy the rest of the cold weather with a nice clam dinner and let me know how it turns out.

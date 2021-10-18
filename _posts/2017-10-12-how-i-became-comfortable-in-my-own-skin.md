@@ -3,7 +3,7 @@ layout: post
 title: "How I Became Comfortable in My Own Skin"
 category: your-guyss
 ---
-![hand with lotion](/assets/images/hand-with-lotion.jpg)
+![hand with lotion](/themilewidelife.com/assets/images/hand-with-lotion.jpg)
 
 I remember nights soaking in a bathtub filled with warm water and baking soda. The skin on my legs and arms was always red and flaking and I couldn’t stop itching. My goal was usually to itch until I started bleeding because then it would sting and I preferred that to itching. The rash would spread to my torso and even my eyelids would be flaky and sore. My knuckles cracked regularly and would bleed and the skin between my toes would split and weep. When I got out of the tub my mom would cover my body with thick Eucerin cream. Still, I itched and sleeping was, on many occasions, a distant thought.
 
